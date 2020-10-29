@@ -1,5 +1,3 @@
-package Assignment3;
-
 public class Box {
     private double width;
     private double length;

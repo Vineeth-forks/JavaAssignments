@@ -1,5 +1,3 @@
-package Assignment3;
-
 public class Car {
     private double mileage;
     

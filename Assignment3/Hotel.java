@@ -1,10 +1,8 @@
-package Assignment3;
-
-public class Hotel {
+public class Hotel extends Room {
     private String hotelName;
     private String address;
-
-    public Hotel(String hotelName, String address) {
+    public Hotel(String hotelName, String address, int capacity, int rent) {
+        super(capacity, rent);
         this.hotelName = hotelName;
         this.address = address;
     }

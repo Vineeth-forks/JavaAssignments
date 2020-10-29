@@ -1,5 +1,3 @@
-package Assignment3;
-
 public class Train {
     private String source;
     private String destination;
